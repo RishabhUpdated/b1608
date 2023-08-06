@@ -1,0 +1,15 @@
+1 # number of galaxies
+0.0 0.0 1.0 # position: x y sigma
+0.0 10000.0 # R_eff sigma
+0.0 10000.0 # PA sigma
+0.0 10000.0 # ellip sigma
+1 # number of sources
+4 # number of images for source #1
+#
+# x y flux sig(x) sig(f) tdel sig(t)
+#
+
+0.0 0.0 1.0 0.0023 0.001 0.0 0.0 # image A
+-0.738 -1.9612 0.490 0.005 0.02 0.0 0.0 # image B
+-0.7446 -0.4537 .508 0.005 0.02 0.0 0.0 # image C
+1.1284 -1.2565 0.172 0.011 0.02 0.0 0.0 # image D
