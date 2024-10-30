@@ -1,1 +1,3 @@
-This project contains my research progress from the COSMOS summer program. I estimated the distance to the celestial object B1608+656 by measuring time delays created by strong gravitational lensing from a nearby galaxy.
+This project contains my research progress from the COSMOS summer program. I estimated the distance to the celestial object B1608+656 by measuring gravitational lensing-induced time delays. Implented custom interpolation and chi-squared fitting algorithm to calcuate time delays. Characterized target using time delays and gravlens modeling tool.
+
+[b1608_final.pdf](https://github.com/user-attachments/files/17568953/b1608_final.pdf)
